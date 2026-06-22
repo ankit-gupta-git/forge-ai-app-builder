@@ -1,5 +1,7 @@
 # Forge: Full-Stack Agentic AI App Generator
 
+![Forge System Architecture](public/architecture.png)
+
 Forge is a high-fidelity, AI-powered React application generator that enables users to build, preview, and refine web applications in real-time directly inside the browser. Similar to platforms like Bolt.new and Lovable, Forge handles the end-to-end process of generating React code, resolving dependencies, rendering live previews, and offering agentic multi-file code improvements.
 
 ---
